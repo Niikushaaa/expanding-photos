@@ -18,13 +18,9 @@ JavaScript
 Features
 Homepage: The homepage provides a welcome message and some information about the purpose of the website.
 
-Contact Form: The website includes a simple contact form where users can enter their name, email address, and a message.
-
-Gallery: The gallery section displays a few images in a grid layout.
+Gallery: The gallery section displays a few images in a flex.
 
 How to Use
-To view the website locally, follow these steps:
-
 Clone the repository to your local machine using the following command:
 bash
 Copy code
