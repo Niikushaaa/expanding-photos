@@ -28,5 +28,5 @@ To view the website locally, follow these steps:
 Clone the repository to your local machine using the following command:
 bash
 Copy code
-git clone https://github.com/your-username/my-first-javascript-website.git
+git clone https://github.com/Niikushaaa/expanding-photos.git
 Open the index.html file in your preferred web browser.
