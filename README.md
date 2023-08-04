@@ -1,4 +1,4 @@
-My First JavaScript Website
+Expanding Photos
 This project is my first attempt at creating a simple website using HTML, CSS, and JavaScript. It serves as a learning exercise and a demonstration of my beginner-level skills in web development.
 
 Table of Contents
